@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Hitchhikers Guide To The Galaxy</title>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        <description>Hitchhikers Guide To The Galaxy radio show complete series</description>
+        <language>en-US</language>
+        <itunes:category text="Comedy"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://i.imgur.com/4wNQStK.jpeg"/>
+        <item>
+        <title>Primary Phase - Fit The First</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 01 Primary Phase.mp3" length="13920417" type="audio/mpeg"/>
+        <guid>Episode 01 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Primary Phase - Fit The Second</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 02 Primary Phase.mp3" length="13775457" type="audio/mpeg"/>
+        <guid>Episode 02 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Primary Phase - Fit The Third</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 03 Primary Phase.mp3" length="13521441" type="audio/mpeg"/>
+        <guid>Episode 03 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Primary Phase - Fit The Fourth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 04 Primary Phase.mp3" length="14268705" type="audio/mpeg"/>
+        <guid>Episode 04 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Primary Phase - Fit The Fifth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 05 Primary Phase.mp3" length="14401185" type="audio/mpeg"/>
+        <guid>Episode 05 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Primary Phase - Fit The Sixth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 06 Primary Phase.mp3" length="14907105" type="audio/mpeg"/>
+        <guid>Episode 06 Primary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Seventh</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 07 Secondary Phase.mp3" length="14478226" type="audio/mpeg"/>
+        <guid>Episode 07 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Eighth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 08 Secondary Phase.mp3" length="14289106" type="audio/mpeg"/>
+        <guid>Episode 08 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Ninth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 09 Secondary Phase.mp3" length="14414098" type="audio/mpeg"/>
+        <guid>Episode 09 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Tenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 10 Secondary Phase.mp3" length="14335378" type="audio/mpeg"/>
+        <guid>Episode 10 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Eleventh</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 11 Secondary Phase.mp3" length="14465746" type="audio/mpeg"/>
+        <guid>Episode 11 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Secondary Phase - Fit The Twelfth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 12 Secondary Phase.mp3" length="13542610" type="audio/mpeg"/>
+        <guid>Episode 12 Secondary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Thirteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 13 Tertiary Phase.mp3" length="14519375" type="audio/mpeg"/>
+        <guid>Episode 13 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Fourteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 14 Tertiary Phase.mp3" length="15113807" type="audio/mpeg"/>
+        <guid>Episode 14 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Fifteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 15 Tertiary Phase.mp3" length="17297423" type="audio/mpeg"/>
+        <guid>Episode 15 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Sixteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 16 Tertiary Phase.mp3" length="15114191" type="audio/mpeg"/>
+        <guid>Episode 16 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Seventeenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 17 Tertiary Phase.mp3" length="14732687" type="audio/mpeg"/>
+        <guid>Episode 17 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Tertiary Phase - Fit The Eighteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 18 Tertiary Phase.mp3" length="16820111" type="audio/mpeg"/>
+        <guid>Episode 18 Tertiary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quandary Phase - Fit The Nineteenth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 19 Quandary Phase.mp3" length="13365870" type="audio/mpeg"/>
+        <guid>Episode 19 Quandary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quandary Phase - Fit The Twentieth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 20 Quandary Phase.mp3" length="13403502" type="audio/mpeg"/>
+        <guid>Episode 20 Quandary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quandary Phase - Fit The Twenty-first</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 21 Quandary Phase.mp3" length="13274492" type="audio/mpeg"/>
+        <guid>Episode 21 Quandary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quandary Phase - Fit The Twenty-second</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 22 Quandary Phase.mp3" length="13413692" type="audio/mpeg"/>
+        <guid>Episode 22 Quandary Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quintissential Phase - Fit The Twenty-third</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 23 Quintissential Phase.mp3" length="13425646" type="audio/mpeg"/>
+        <guid>Episode 23 Quintissential Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quintissential Phase - Fit The Twenty-fourth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 24 Quintissential Phase.mp3" length="13411054" type="audio/mpeg"/>
+        <guid>Episode 24 Quintissential Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quintissential Phase - Fit The Twenty-fifth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 25 Quintissential Phase.mp3" length="13405102" type="audio/mpeg"/>
+        <guid>Episode 25 Quintissential Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Quintissential Phase - Fit The Twenty-sixth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 26 Quintissential Phase.mp3" length="13418926" type="audio/mpeg"/>
+        <guid>Episode 26 Quintissential Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Twenty-seventh</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 27 Hexagonal Phase.mp3" length="26546195" type="audio/mpeg"/>
+        <guid>Episode 27 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Twenty-eighth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 28 Hexagonal Phase.mp3" length="26557217" type="audio/mpeg"/>
+        <guid>Episode 28 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Twenty-ninth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 29 Hexagonal Phase.mp3" length="26331425" type="audio/mpeg"/>
+        <guid>Episode 29 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Thirtieth</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 30 Hexagonal Phase.mp3" length="26447009" type="audio/mpeg"/>
+        <guid>Episode 30 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Thirty-first</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 31 Hexagonal Phase.mp3" length="26506145" type="audio/mpeg"/>
+        <guid>Episode 31 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+        <item>
+        <title>Hexagonal Phase - Fit The Thirty-second</title>
+        <enclosure url="http://192.168.1.149:8000/HGTTG/Episode 32 Hexagonal Phase.mp3" length="26692001" type="audio/mpeg"/>
+        <guid>Episode 32 Hexagonal Phase.mp3</guid>
+        <pubDate>Wed, 27 Nov 2002 14:17:55 GMT</pubDate>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        </item>
+    </channel>
+</rss>
