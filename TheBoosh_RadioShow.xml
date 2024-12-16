@@ -10,7 +10,7 @@
         <itunes:image href="https://i.imgur.com/Rk5yRMp.jpeg"/>
         <item>
             <title>Stolen</title>
-            <enclosure url="https://drive.google.com/uc?export=download&id=0B_xUMLdMpAVxeklORmJUcTYwSzg" length="26735104" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/uc?export=download&amp;ampid=0B_xUMLdMpAVxeklORmJUcTYwSzg" length="26735104" type="audio/mpeg"/>
             <guid>1. Stolen.mp3</guid>
             <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
         </item>
