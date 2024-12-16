@@ -2,5 +2,6 @@
 
 ## Title 2
 
-https://rory-pond.github.io/HitchhikersGuideToTheGalaxy.xml
+[Hitch rss](https://rory-pond.github.io/HitchhikersGuideToTheGalaxy.xml)
+[Boosh RSS](https://rory-pond.github.io/TheBoosh_RadioShow.xml)
 

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+        <title>The Boosh</title>
+        <link>https://selected-smooth-wallaby.ngrok-free.app</link>
+        <description>The surreal adventures of zookeepers Howard and Vince who work at Bob Fossil's Funworld</description>
+        <language>en-US</language>
+        <itunes:category text="Comedy"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://i.imgur.com/Rk5yRMp.jpeg"/>
+        <item>
+            <title>Stolen</title>
+            <enclosure url="https://drive.google.com/uc?export=download&id=0B_xUMLdMpAVxeklORmJUcTYwSzg" length="26735104" type="audio/mpeg"/>
+            <guid>1. Stolen.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Jungle</title>
+            <enclosure url="http://111.111.111.111:8000/2.Jungle.mp3" length="26836992" type="audio/mpeg"/>
+            <guid>2. Jungle.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Jazz</title>
+            <enclosure url="http://111.111.111.111:8000/3.Jazz.mp3" length="26939904" type="audio/mpeg"/>
+            <guid>3. Jazz.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Mutants</title>
+            <enclosure url="http://111.111.111.111:8000/4.Mutants.mp3" length="26715648" type="audio/mpeg"/>
+            <guid>4. Mutants.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Tundra</title>
+            <enclosure url="http://111.111.111.111:8000/5.Tundra.mp3" length="26939904" type="audio/mpeg"/>
+            <guid>5. Tundra.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Hitcher</title>
+            <enclosure url="http://111.111.111.111:8000/6.Hitcher.mp3" length="26836992" type="audio/mpeg"/>
+            <guid>6. Hitcher.mp3</guid>
+            <pubDate>Tue, 03 Dec 2024 00:23:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
