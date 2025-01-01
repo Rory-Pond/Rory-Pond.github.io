@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+        <title>Tjascha's Exclusive Mixes</title>
+        <link>https://rory-pond.github.io/podcast</link>
+        <description>DJ sets recorded by Rory specially for Tjascha to enjoy. Each month expect at least one new set with bonus episodes thrown in as well. One of the perks of this premium subscription is requests are welcome if you are looking for music of a specific genre/artist or if you want to discover something new. </description>
+        <language>en-US</language>
+        <itunes:category text="Music"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:image href="https://i.imgur.com/mjuwTdd.png"/>
+        <item>
+            <title>Bathtime Relaxation</title>
+            <description>Fill the bath with hot water and bubbles, light an excessively high number of candles and lie back and relax. This set aims to create a medative and calming sound to let your mind and body relax. </description>
+            <enclosure url="https://www.dropbox.com/scl/fi/olgbkhx3niofmkrpsffoj/Bathtime-Relaxation.mp3?rlkey=j3ure2x4d4fywal883a55b84t&amp;st=q687x8nz&amp;raw=1" length="90440931" type="audio/mpeg"/>
+            <guid>Bathtime-Meditation.mp3</guid>
+            <pubDate>Tue, 24 Dec 2024 12:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title>Techival Ambient Set</title>
+            <description>Bonus episode! Recording of my set from last year's Techival event. A synth heavy ambient set which I am very proud of.  </description>
+            <enclosure url="https://www.dropbox.com/scl/fi/nnuzo4tynxow8y7z5nwgo/Techival-Ambient-Set.mp3?rlkey=4x1ae25cg64m4b0lbz4t6tvs9&amp;st=ps50n7lc&amp;raw=1" length="125632654" type="audio/mpeg"/>
+            <guid>Techival-Ambient-Set.mp3</guid>
+            <pubDate>Wed, 25 Dec 2024 08:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title>Dino Park Vibes</title>
+            <description>Bonus episode! Recording of one of my dino park DJ sessions while friends would flow, slackline and hangout. The mix is instrumental tracks with very laid back chill vibe. </description>
+            <enclosure url="https://www.dropbox.com/scl/fi/8w2kai0sc13z5ayff90nw/Dino-Park-Vibes.mp3?rlkey=rkuorumx3npdbkoxicfaqd5zn&amp;st=2x7vdcu9&amp;raw=1" length="130012991" type="audio/mpeg"/>
+            <guid>Chill-Hangout-Session.mp3</guid>
+            <pubDate>Wed, 25 Dec 2024 12:27:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
