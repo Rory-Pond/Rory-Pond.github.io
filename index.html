@@ -50,10 +50,6 @@
         border-bottom: none;
     }
     
-    .episode h3 {
-        /* margin: 0 0 10px; */
-    }
-    
     .episode a {
         color: #0073e6;
         text-decoration: none;
@@ -71,32 +67,33 @@
         border-radius: 10px;
         margin-bottom: 10px;
         margin-right: 10px;
-        /* padding: 10px; */
     }
     .episode h2 {
-    margin: 0px 0 10px; /* Reduce the top margin to 5px */
+        margin: 0px 0 10px; /* Reduce the top margin to 5px */
     }
-    
-    .rss-links {
+
+.rss-links {
     background-color: #5f3961;
-    margin-top: 20px;
-    padding: 10px;
-    display: flex; /* Enables flexbox layout */
-    align-items: center; /* Aligns items vertically in the center */
-    gap: 20px; /* Adds spacing between the items */
-    justify-content: center; /* Centers the icons horizontally */
+    /* margin-top: 20px; */
+    /* padding: 10px; */
+    /* text-align: left; */
+}
+
+.rss-links h2 {
+        margin: 0px 0 10px; /* Reduce the top margin to 5px */
+        /* margin-bottom: 10px; */
     }
 
     .rss-links a {
-        display: inline-flex; /* Keeps the links inline for better alignment */
+        margin: 0 10px;
+        display: inline-block;
     }
 
     .rss-links img {
-        width: 40px; /* Set a consistent size for all icons */
+        width: 40px;
         height: 40px;
-        border-radius: 5px; /* Optional: Adds slight rounding to the icons */
+        vertical-align: middle;
     }
-
 </style>
 <body>
     <div class="container">
@@ -106,6 +103,22 @@
             <p>DJ sets recorded by Rory specially for Tjascha to enjoy. Each month expect at least one new set with bonus episodes thrown in as well. One of the perks of this premium subscription is requests are welcome if you are looking for music of a specific genre/artist or if you want to discover something new. </p>
         </header>
         <main>
+
+            <section class="rss-links">
+                <h3>Subscribe to the Podcast:</h2>
+                <a href="https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
+                    <img src="svg/rss.svg" alt="RSS Feed">
+                </a>
+                <a href="overcast://x-callback-url/add?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
+                    <img src="svg/overcast.svg" alt="Overcast">
+                </a>
+                <!-- <a href="pcast://https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
+                    <img src="svg/podcast-addict.svg" alt="Podcast Addict">
+                </a>
+                <a href="https://pca.st/subscribe?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
+                    <img src="svg/pocket-casts.svg" alt="Pocket Casts">
+                </a> -->
+            </section>
             <section id="episodes">
                 <h1>Episodes</h1>
                 
@@ -132,24 +145,7 @@
                     <p>Released: December 25, 2024</p>
                     <a href="https://www.dropbox.com/scl/fi/8w2kai0sc13z5ayff90nw/Dino-Park-Vibes.mp3?rlkey=rkuorumx3npdbkoxicfaqd5zn&amp;st=2x7vdcu9&amp;raw=1" target="_blank">Listen to Episode</a>
                 </div>
-
             </section>
-            <section class="rss-links">
-                <h2>Subscribe to the Podcast</h2>
-                <a href="https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
-                    <img src="svg/rss.svg" alt="RSS Feed">
-                </a>
-                <a href="overcast://x-callback-url/add?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
-                    <img src="svg/overcast.svg" alt="Overcast">
-                </a>
-                <a href="pcast://https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
-                    <img src="svg/podcast-addict.svg" alt="Podcast Addict">
-                </a>
-                <a href="https://pca.st/subscribe?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">
-                    <img src="svg/pocket-casts.svg" alt="Pocket Casts">
-                </a>
-            </section>
-            
         </main>
     </div>
 </body>
