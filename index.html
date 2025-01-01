@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Podcast Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        header {
+            background-color: #f4f4f4;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header img {
+            max-width: 300px;
+            border-radius: 20px;
+        }
+
+        header h1 {
+            margin: 10px 0;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        .episode {
+            margin: 20px 0;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .episode:last-child {
+            border-bottom: none;
+        }
+
+        .episode h3 {
+            margin: 0 0 10px;
+        }
+
+        .episode a {
+            color: #0073e6;
+            text-decoration: none;
+        }
+
+        .episode a:hover {
+            text-decoration: underline;
+        }
+
+        .episode img {
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+
+        .rss-links {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+        }
+
+        .rss-links a {
+            color: #0073e6;
+            text-decoration: none;
+            display: block;
+            margin: 5px 0;
+        }
+
+        .rss-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="img/TitleCard.png" alt="Podcast Cover">
+        <h1>Tjascha's Exclusive Mixes</h1>
+        <p>DJ sets recorded by Rory specially for Tjascha to enjoy. Each month expect at least one new set with bonus episodes thrown in as well. One of the perks of this premium subscription is requests are welcome if you are looking for music of a specific genre/artist or if you want to discover something new. </p>
+    </header>
+    <main>
+        <section id="episodes">
+            <h2>Episodes</h2>
+            
+            <div class="episode">
+                <img src="img/Bathtime.png" alt="Bathtime Relaxation">
+                <h3>Bathtime Relaxation</h3>
+                <p>Fill the bath with hot water and bubbles, light an excessively high number of candles and lie back and relax. This set aims to create a medative and calming sound to let your mind and body relax.</p>
+                <p>Released: December 24, 2024</p>
+                <a href="https://www.dropbox.com/scl/fi/olgbkhx3niofmkrpsffoj/Bathtime-Relaxation.mp3?rlkey=j3ure2x4d4fywal883a55b84t&amp;st=q687x8nz&amp;raw=1" target="_blank">Listen to Episode</a>
+            </div>
+            
+            <div class="episode">
+                <img src="img/Techival.png" alt="Podcast Cover">
+                <h3>Techival Ambient Set</h3>
+                <p>Bonus episode! Recording of my set from last year's Techival event. A synth heavy ambient set which I am very proud of.</p>
+                <p>Released: December 25, 2024</p>
+                <a href="https://www.dropbox.com/scl/fi/nnuzo4tynxow8y7z5nwgo/Techival-Ambient-Set.mp3?rlkey=4x1ae25cg64m4b0lbz4t6tvs9&amp;st=ps50n7lc&amp;raw=1" target="_blank">Listen to Episode</a>
+            </div>
+            
+            <div class="episode">
+                <img src="img/Chill.png" alt="Podcast Cover">
+                <h3>Dino Park Vibes</h3>
+                <p>Bonus episode! Recording of one of my dino park DJ sessions while friends would flow, slackline and hangout. The mix is instrumental tracks with very laid back chill vibe. </p>
+                <p>Released: December 25, 2024</p>
+                <a href="https://www.dropbox.com/scl/fi/8w2kai0sc13z5ayff90nw/Dino-Park-Vibes.mp3?rlkey=rkuorumx3npdbkoxicfaqd5zn&amp;st=2x7vdcu9&amp;raw=1" target="_blank">Listen to Episode</a>
+            </div>
+
+        </section>
+
+        <section class="rss-links">
+            <h2>Subscribe to the Podcast</h2>
+            <a href="https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">RSS Feed</a>
+            <a href="overcast://x-callback-url/add?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">Subscribe on Overcast</a>
+            <a href="pcast://https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">Subscribe on Podcast Addict</a>
+            <a href="https://pca.st/subscribe?url=https://rory-pond.github.io/Tjascha-Exclusive.xml" target="_blank">Subscribe on Pocket Casts</a>
+        </section>
+    </main>
+</body>
+</html>
